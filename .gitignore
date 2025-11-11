@@ -1,0 +1,9 @@
+*.h5
+*.ckpt
+.ipynb_checkpoints/
+__pycache__/
+kaggle.json
+*.pyc
+.env
+data/
+datasets/
